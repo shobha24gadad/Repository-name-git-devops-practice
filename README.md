@@ -1,4 +1,4 @@
-# DevOps Git Practice
+# DevOps Git Practice with a small piece of code
 name = "Shobha s talwar"
 
 print("Hello,", name)
