@@ -9,6 +9,11 @@ print("Today I am practicing Git and GitHub.")
 
 I am learning Git and GitHub.
 I am practicing branching and merging.
+<<<<<<< HEAD
+## Pull Request Practice
+
+This change is made on the feature branch to practice creating a Pull Request on GitHub.
+=======
 # Git DevOps Practice
 
 This repository is created for practicing Git and GitHub as part of my DevOps learning journey.
@@ -63,3 +68,4 @@ I am using this repository to practice Git commands and understand how developer
 ## Goal
 
 Build strong practical Git and GitHub skills as part of my journey toward becoming a DevOps Engineer.
+>>>>>>> origin/master
