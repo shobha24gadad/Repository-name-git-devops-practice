@@ -9,3 +9,6 @@ print("Today I am practicing Git and GitHub.")
 
 I am learning Git and GitHub.
 I am practicing branching and merging.
+## Pull Request Practice
+
+This change is made on the feature branch to practice creating a Pull Request on GitHub.
