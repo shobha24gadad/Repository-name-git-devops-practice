@@ -52,6 +52,9 @@ Current branches used for practice:
 
 * `master`
 * `feature/devops-practice`
+## Git Pull Practice
+
+I am learning how to pull changes from GitHub to my local repository.
 
 ## Practice Project
 
